@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071e2b"/>
+    <stop offset="1" stop-color="#080a12"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="440" height="600" fill="url(#bg)"/>
+<rect width="440" height="600" fill="url(#glow)"/>
+
+      <path d="M0 430 Q210 300 440 395 V600 H0Z" fill="#0c1628"/>
+      <path d="M0 500 Q210 370 440 465" fill="none" stroke="#22d3ee" stroke-width="10" opacity=".8"/>
+      <path d="M55 430 L125 375 L270 365 L355 420 L300 460 L115 458Z" fill="#17253a" stroke="#22d3ee" stroke-width="4"/>
+      <circle cx="145" cy="455" r="24" fill="#090d17" stroke="#a5f3fc" stroke-width="7"/>
+      <circle cx="295" cy="455" r="24" fill="#090d17" stroke="#a5f3fc" stroke-width="7"/>
+      <path d="M80 340 L365 300" stroke="#a5f3fc" stroke-width="3" opacity=".7"/>
+    
+<rect x="22" y="22" width="396" height="556" rx="18" fill="none" stroke="#22d3ee" stroke-opacity=".28"/>
+<text x="30" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">VELOCITY X</text>
+<text x="30" y="550" fill="#22d3ee" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="4">GAMEZONE ORIGINAL</text>
+</svg>

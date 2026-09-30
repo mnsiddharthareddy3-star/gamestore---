@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#14231c"/>
+    <stop offset="1" stop-color="#080a12"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#34d399" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="440" height="600" fill="url(#bg)"/>
+<rect width="440" height="600" fill="url(#glow)"/>
+
+      <path d="M20 470 L110 290 L220 350 L320 235 L420 390 V600 H20Z" fill="#0b1712"/>
+      <path d="M70 500 L360 260 M145 530 L410 340" stroke="#34d399" stroke-width="5" opacity=".7"/>
+      <circle cx="110" cy="360" r="13" fill="#34d399"/><circle cx="220" cy="420" r="13" fill="#fbbf24"/><circle cx="320" cy="320" r="13" fill="#34d399"/>
+      <path d="M110 360 L220 420 L320 320" fill="none" stroke="#86efac" stroke-width="3" stroke-dasharray="9 8"/>
+    
+<rect x="22" y="22" width="396" height="556" rx="18" fill="none" stroke="#34d399" stroke-opacity=".28"/>
+<text x="30" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">EMPIRE TACTICS</text>
+<text x="30" y="550" fill="#34d399" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="4">GAMEZONE ORIGINAL</text>
+</svg>
